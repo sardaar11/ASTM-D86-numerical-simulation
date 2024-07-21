@@ -26,6 +26,8 @@ The following numerical methods are employed in the project to solve the nonline
 - **LU Decomposition**: Applied to solve linear systems efficiently as part of the iterative methods.
 - **Inverse Matrix Calculation via Gaussian Elimination**: Used to compute matrix inverses, necessary for solving linear equations.
 
+Check the `utils.py` file, the implementation of some useful numerical methods are in there.
+
 ## Usage Instructions
 
 ### Prerequisites
